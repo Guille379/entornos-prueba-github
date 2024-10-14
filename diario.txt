@@ -1,2 +1,3 @@
 Día 1: iniciando
 Día 2: profundizando en los commits
+Día 3: Explorando ramificaciones
