@@ -1,1 +1,2 @@
 Día 1: iniciando
+Día 2: profundizando en los commits
